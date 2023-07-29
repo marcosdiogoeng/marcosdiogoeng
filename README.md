@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I’m currently working as an Automation Systems Analyst.<br>💻 I’m studying and specializing in Java Developer.<br>
+⚡ I’m currently working as an Automation Systems Analyst.<br>💻 I’m studying and specializing in DevOps.<br>
 
 
 # 💻 Tech Stack:
