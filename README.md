@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I’m currently working as an DevOps Analyst.<br>💻 I’m studying and specializing in DevOps.<br>
+⚡ I’m currently working as a DevOps Analyst.<br>💻 I’m studying and specializing in DevOps.<br>
 
 
 # 💻 Tech Stack:
